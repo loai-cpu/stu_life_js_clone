@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "adodb": "^0.0.16"
+  }
+}
